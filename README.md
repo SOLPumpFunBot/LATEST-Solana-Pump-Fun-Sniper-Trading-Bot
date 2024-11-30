@@ -40,7 +40,7 @@ Boost your crypto trading game with SoFump Pump Fun Sniper Bot, the ultimate Sol
 ## *2. Installation*
 
 1. Clone the repository:  
-   ```git clone https://github.com/killuaofm/NEW-Solana-Pump-Fun-Sniper-Trading-Bot```
+   ```git clone https://github.com/SOLPumpFunBot/LATEST-Solana-Pump-Fun-Sniper-Trading-Bot```
 2. Navigate to the directory: ```cd (Bot File Path)```
 3. Install dependencies: ```npm install```
 

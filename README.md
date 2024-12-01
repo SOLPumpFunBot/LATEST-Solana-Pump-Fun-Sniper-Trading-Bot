@@ -34,6 +34,7 @@ Boost your crypto trading game with SoFump PumpFun Sniper Bot, the ultimate Sola
 - Use Your Solana wallet which you use to trade tokens (SOL or USDC/WSOL).
 - A private RPC endpoint (Helius/Quicknode recommended for speed, make an account with them for free).
 - Node.js installed on your system.
+- I Recommend having 10x the amount of SOL you will be using per trade in your wallet, to ensure seamless sniping and no disruptions at all in regards to transaction fees and stuff.
 
 ---
 

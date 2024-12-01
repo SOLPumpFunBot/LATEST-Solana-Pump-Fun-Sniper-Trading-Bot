@@ -93,9 +93,6 @@ Boost your crypto trading game with SoFump PumpFun Sniper Bot, the ultimate Sola
 
 Enjoy automated trading with Pump-Fun-Sniper-Solana!
 
-
-<img width="434" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/9400e820-b87b-48a7-93f2-8da8ad1a4a06">
-
-<img width="530" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/8099dd2b-5627-4941-81eb-7f1fd6cc2bff">
-
-<img width="469" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/64d38931-e0fe-4857-a5c7-36e28c80c4cf">
+![](imgs/ss1.png)
+![](imgs/ss2.png)
+![](imgs/ss3.png)

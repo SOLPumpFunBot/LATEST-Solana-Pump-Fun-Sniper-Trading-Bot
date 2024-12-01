@@ -1,8 +1,8 @@
 ## Pump Fun Sniper Bot - High-Speed Automated Trading for Pump.Fun Liquidity Pools
 
-SoFump The New Latest Pump Fun Sniper Bot is a cutting-edge tool designed for automated trading on Pump.Fun. This bot detects new liquidity pools, executes trades, and manages your portfolio seamlessly to maximize profits with features like automated buying, take-profit/stop-loss settings, and persistent positions.  
+SoFump The New Latest Pump Fun Sniper Bot is a cutting-edge tool designed for automated trading on Pump.Fun , This bot detects new liquidity pools, executes trades, and manages your portfolio seamlessly to maximize profits with features like automated buying, take-profit/stop-loss settings, and persistent positions.  
 
-Boost your crypto trading game with SoFump Pump Fun Sniper Bot, the ultimate Solana-based trading tool. Detect new Pump.Fun liquidity pools instantly, automate trades, and maximize profits with advanced take-profit and stop-loss settings. Perfect for degens trading SOL, USDC, WSOL, and more. Fast, reliable, and customizable for beginners and pros alike—dominate the market with this top-tier Solana sniper bot!
+Boost your crypto trading game with SoFump PumpFun Sniper Bot, the ultimate Solana-based trading tool. Detect new Pump.Fun liquidity pools instantly, automate trades, and maximize profits with advanced take-profit and stop-loss settings. Perfect for degens trading SOL, USDC, WSOL, and more. Fast, reliable, and customizable for beginners and pros alike—dominate the market with this top-tier Solana sniper bot!
 
 ![](imgs/logo.jpg)
 
@@ -20,11 +20,12 @@ Boost your crypto trading game with SoFump Pump Fun Sniper Bot, the ultimate Sol
 
 ## 🚀 Features
 
-- *Automated Trading*: Snipes the latest coins on Pump.Fun and automates sell actions based on your target profit or stop-loss settings.
+- *Automated Trading*: Snipes the latest coins on Pump.Fun and automates sell actions based on your target profit settings.
 - *King of the Hill Mode*: Prioritize top-performing coins for maximum potential returns.
 - *Customizable Settings*: Adjust settings like minimum market cap, reply counts, and more.
 - *Advanced Monitoring*: View detailed information about the latest coins and manage your portfolio efficiently.
-- *Persistent Positions*: Save and reload your positions even after restarting the bot.
+- Example Snipe Of A PumpFun Token That Bonded & Went to Raydium Screenshot
+![](imgs/snipe.png)
 
 ---
 
@@ -43,6 +44,7 @@ Boost your crypto trading game with SoFump Pump Fun Sniper Bot, the ultimate Sol
    ```git clone https://github.com/SOLPumpFunBot/LATEST-Solana-Pump-Fun-Sniper-Trading-Bot```
 2. Navigate to the directory: ```cd (Bot File Path)```
 3. Install dependencies: ```npm install```
+4. Start ```npm start```
 
 ---
 

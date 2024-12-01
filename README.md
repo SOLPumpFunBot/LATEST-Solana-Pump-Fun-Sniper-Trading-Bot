@@ -85,7 +85,8 @@ Boost your crypto trading game with SoFump PumpFun Sniper Bot, the ultimate Sola
 
 ### Using the Tool
 
-- **Purchase the Latest Coin:** Buy the latest coin that meets your requirements.
+- **Purchase the Latest Coin:** Buy the latest coin that meets your requirements and sell off for quick profit, even in rugcoins. (This is probably the reason you would be using this bot)
+  
 - **View Positions:** View your current positions and manage them, including selling all positions.
 - **Set Settings:** Configure the bot settings.
 - **Exit:** Exit the tool.
@@ -98,11 +99,3 @@ Enjoy automated trading with Pump-Fun-Sniper-Solana!
 <img width="530" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/8099dd2b-5627-4941-81eb-7f1fd6cc2bff">
 
 <img width="469" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/64d38931-e0fe-4857-a5c7-36e28c80c4cf">
-
-<img width="603" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/c5220539-d993-4045-9a9e-06ed0b43a81a">
-
-<img width="828" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/322e1fc5-4a15-4de4-bf7c-1f1e44f0e1c8">
-
-<img width="932" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/5e137d1d-8025-4470-b5ff-0f2a182fa381">
-
-<img width="692" alt="image" src="https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/assets/143815179/0d803342-6901-48a0-bb8d-d23a2bf8a89e">
